@@ -1,0 +1,9 @@
+[package]
+name = "protocol"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Proof-of-Useful-Work consensus via verifiable matrix multiplication (exact INT8 + Freivalds audit)"
+repository = "https://github.com/name970/Protocol"
+
+[dependencies]
