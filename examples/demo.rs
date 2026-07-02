@@ -1,5 +1,5 @@
 //! Demonstrates bit-exact matrix multiplication through the INT8 slice path.
-//! Run with:  cargo run --example demo
+//! Run with: cargo run --example demo
 
 use protocol::{decompose_matrix, matmul_reference, matmul_via_slices, no_overflow_bits, IntMatrix};
 
